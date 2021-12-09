@@ -1,0 +1,7 @@
+{
+    "servicos": {
+        "host": "localhost",
+        "user": "root",
+        "database": "servicos"
+    }
+}
